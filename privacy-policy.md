@@ -1,3 +1,9 @@
+---
+theme: jekyll-theme-cayman
+title: Privacy Policy
+---
+
+
 # Privacy Policy
 
 **Extension:** Unlockify.link Bypasser
